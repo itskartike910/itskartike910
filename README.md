@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/itskartike910/count.svg?"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itskartike910.itskartike910&"  />
 
 ###
 
@@ -65,14 +65,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/itskartike910/itskartike910/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
 
 ###
