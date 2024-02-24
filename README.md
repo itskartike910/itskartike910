@@ -63,8 +63,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/itskartike910/itskartike910/output/snake.svg" alt="Snake animation" />
-
 ###
 
 ###
