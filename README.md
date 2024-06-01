@@ -40,11 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-
 <img align="right" height="160" src="https://github.com/itskartike910/itskartike910/assets/96167648/7d0c4cfc-1e5b-4d99-beae-abc8be089ad5"  />
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itskartike910&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 <div align="left">
   <a href="https://www.linkedin.com/in/kartik-kumar-4277b4235/" target="_blank">
