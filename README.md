@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">> Pre final year student at NIT Patna.<br>> BTech in Computer Science and Engineering.<br>> An Android App Developer - Languages (Flutter- Dart, Java- XML).</p>
+<p align="left">> Final year student at NIT Patna.<br>> BTech in Computer Science and Engineering.<br>> An Android App Developer - Languages (Flutter- Dart, Java- XML).</p>
 
 ###
 
