@@ -55,7 +55,7 @@
   <a href="https://www.hackerrank.com/Its_Kartike" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="35" alt="hackerrank logo"  />
   </a>
-  <a href="https://t.me/its_kartike" target="_blank">
+  <a href="https://t.me/i_am_groot02" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="35" alt="telegram logo"  />
   </a>
   <a href="https://discord.com/channels/kartikkumar910" target="_blank">
