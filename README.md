@@ -74,8 +74,10 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="35" alt="facebook logo"  />
   </a>
 </div>
-<img src="https://raw.githubusercontent.com/itskartike910/itskartike910/output/snake.svg" alt="Snake animation" />
 <!-- <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/> -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=itskartike910&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ###
 
