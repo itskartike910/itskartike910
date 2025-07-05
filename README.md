@@ -7,8 +7,6 @@
 
 ###
 
-<p align="left">  > Final year student at NIT Patna.<br>  > BTech in Computer Science and Engineering.<br>  > Flutter and Web Devloper.</p>
-
 ###
 
 ## 📊 GitHub Stats:
