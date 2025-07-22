@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="35" alt="facebook logo"  />
   </a>
   <a href="https://leetcode.com/u/its_kartike/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/67872d5b-2ec6-43c0-8607-aa408608f3c9" height="35" alt="leetcode logo"  />
+    <img src="https://github.com/user-attachments/assets/67872d5b-2ec6-43c0-8607-aa408608f3c9" height="22" alt="leetcode logo"  />
   </a>
 </div>
 <!-- <div>
