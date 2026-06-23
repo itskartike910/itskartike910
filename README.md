@@ -206,8 +206,6 @@ const kartik = {
 
 ## 🎯 &nbsp;Current Mission
 
-<div align="center">
-
 ```yaml
 # ─── mission_control.yaml ───────────────────────────────────────────────────
 
@@ -233,8 +231,6 @@ exploring:
   - "🔒  Secure sandboxing for agentic code execution"
   - "🛡️  Enterprise RBAC & secure JWT integrations"
 ```
-
-</div>
 
 <br/>
 
